@@ -1,6 +1,6 @@
 {
     "name": "SendingBit-Environmental",
-    "description": "",
+    "description": "MakeCode Ext for WeatherBit",
     "dependencies": {
         "core": "*",
         "radio": "*",
