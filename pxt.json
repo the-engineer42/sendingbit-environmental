@@ -11,7 +11,11 @@
         "main.ts",
         "README.md",
         "main.py",
-        "weatherbit.ts"
+        "weatherbit.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "_locales/fr/weatherbit-strings.json",
+        "_locales/fr/weatherbit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
