@@ -174,8 +174,8 @@ namespace weatherbit {
     //% weight=30 blockId="weatherbit_rain" block="rain"
     export function rain(): number {
         startRainMonitoring();
-        // Will be zero until numRainDumps is greater than 90 = 1"
-        let inchesOfRain = ((numRainDumps * 11) / 1000)
+        // 
+        let inchesOfRain = numRainDumps
         return inchesOfRain
     }
 
