@@ -1,6 +1,4 @@
 
-> Open this page at [https://the-engineer42.github.io/sendingbit-weather_v1/](https://the-engineer42.github.io/sendingbit-weather_v1/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
